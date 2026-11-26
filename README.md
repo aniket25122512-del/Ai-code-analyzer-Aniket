@@ -65,6 +65,11 @@ To run the project locally, follow these steps:
 3. Click the "Send Code" button to receive results.
 4. Review the output for insights and recommendations.
 
+# First contribution ideas
+
+new to open source? start 
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
